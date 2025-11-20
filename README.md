@@ -1,5 +1,7 @@
 # Calculadora Simples em Python
 
+Bem vindo a esse repositório
+
 Este é um projeto de uma calculadora simples desenvolvida em Python.
 
 ## Funcionalidades
